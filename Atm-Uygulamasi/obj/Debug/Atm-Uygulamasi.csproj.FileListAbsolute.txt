@@ -1,0 +1,7 @@
+D:\C# Projeleri\Atm-Uygulamasi\Atm-Uygulamasi\bin\Debug\Atm-Uygulamasi.exe.config
+D:\C# Projeleri\Atm-Uygulamasi\Atm-Uygulamasi\bin\Debug\Atm-Uygulamasi.exe
+D:\C# Projeleri\Atm-Uygulamasi\Atm-Uygulamasi\bin\Debug\Atm-Uygulamasi.pdb
+D:\C# Projeleri\Atm-Uygulamasi\Atm-Uygulamasi\obj\Debug\Atm-Uygulamasi.csprojAssemblyReference.cache
+D:\C# Projeleri\Atm-Uygulamasi\Atm-Uygulamasi\obj\Debug\Atm-Uygulamasi.csproj.CoreCompileInputs.cache
+D:\C# Projeleri\Atm-Uygulamasi\Atm-Uygulamasi\obj\Debug\Atm-Uygulamasi.exe
+D:\C# Projeleri\Atm-Uygulamasi\Atm-Uygulamasi\obj\Debug\Atm-Uygulamasi.pdb
